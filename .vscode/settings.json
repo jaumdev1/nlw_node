@@ -1,0 +1,10 @@
+{
+    "editor.suggestFontSize": 10,
+    "scm.inputFontSize": 16,
+    "editor.codeLensFonteSize":17,
+    "editor.inlayHints.fontSize": 18,
+    "window.zoomLevel": -1,
+    "[prisma]":{
+        "editor.defaultFormatter": "Prisma.prisma"
+    }
+}
